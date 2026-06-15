@@ -1,0 +1,5 @@
+telethon>=1.36.0
+cryptg>=0.4.0
+aiofiles>=23.2.1
+pytgcalls==4.9.0
+uvloop>=0.19.0
